@@ -1,0 +1,1582 @@
+三月 04, 2018 6:37:40 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;.
+三月 04, 2018 6:37:41 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 6:37:41 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 6:37:41 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 449 ms
+三月 04, 2018 6:37:41 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 6:37:41 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 6:37:41 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 6:37:41 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [169] milliseconds.
+三月 04, 2018 6:37:41 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 6:37:41 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 6:37:41 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 6:37:41 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 6:37:41 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 6:38:02 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 6:38:02 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 6:38:02 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 6:38:02 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 21125 ms
+三月 04, 2018 6:39:33 下午 org.apache.catalina.core.StandardServer await
+信息: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+三月 04, 2018 8:53:11 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;.
+三月 04, 2018 8:53:11 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 8:53:11 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 8:53:11 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 484 ms
+三月 04, 2018 8:53:11 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 8:53:11 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 8:53:11 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 8:53:11 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [261] milliseconds.
+三月 04, 2018 8:53:11 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 8:53:11 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 8:53:11 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 8:53:12 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 8:53:12 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 8:53:32 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 8:53:32 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 8:53:32 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 8:53:32 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 21476 ms
+三月 04, 2018 9:20:30 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;.
+三月 04, 2018 9:20:31 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 9:20:31 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 9:20:31 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 540 ms
+三月 04, 2018 9:20:31 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 9:20:31 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 9:20:31 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 9:20:31 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [184] milliseconds.
+三月 04, 2018 9:20:31 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 9:20:31 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 9:20:31 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 9:20:32 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 9:20:32 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 9:20:34 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 9:20:34 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 9:20:34 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 9:20:35 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 3769 ms
+三月 04, 2018 9:23:14 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;.
+三月 04, 2018 9:23:14 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 9:23:14 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 9:23:14 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 507 ms
+三月 04, 2018 9:23:14 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 9:23:14 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 9:23:14 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 9:23:15 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [180] milliseconds.
+三月 04, 2018 9:23:15 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 9:23:15 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 9:23:15 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 9:23:15 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 9:23:15 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 9:23:18 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 9:23:18 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 9:23:18 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 9:23:18 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 4027 ms
+三月 04, 2018 9:26:06 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;.
+三月 04, 2018 9:26:07 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 9:26:07 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 9:26:07 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 542 ms
+三月 04, 2018 9:26:07 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 9:26:07 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 9:26:07 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 9:26:07 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [190] milliseconds.
+三月 04, 2018 9:26:07 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 9:26:07 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 9:26:07 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 9:26:07 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 9:26:07 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 9:26:10 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 9:26:10 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 9:26:10 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 9:26:10 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 3691 ms
+三月 04, 2018 9:27:45 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;.
+三月 04, 2018 9:27:45 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 9:27:45 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 9:27:45 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 562 ms
+三月 04, 2018 9:27:45 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 9:27:45 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 9:27:45 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 9:27:46 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [245] milliseconds.
+三月 04, 2018 9:27:46 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 9:27:46 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 9:27:46 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 9:27:46 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 9:27:46 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 9:27:49 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 9:27:50 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 9:27:50 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 9:27:50 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 4580 ms
+三月 04, 2018 9:31:32 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;.
+三月 04, 2018 9:31:32 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 9:31:32 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 9:31:32 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 559 ms
+三月 04, 2018 9:31:32 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 9:31:32 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 9:31:32 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 9:31:32 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [191] milliseconds.
+三月 04, 2018 9:31:32 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 9:31:33 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 9:31:33 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 9:31:33 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 9:31:33 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 9:31:36 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 9:31:36 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 9:31:36 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 9:31:36 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 3876 ms
+三月 04, 2018 9:33:35 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;.
+三月 04, 2018 9:33:55 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;.
+三月 04, 2018 9:33:55 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 9:33:55 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 9:33:55 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 505 ms
+三月 04, 2018 9:33:56 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 9:33:56 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 9:33:56 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 9:33:56 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [187] milliseconds.
+三月 04, 2018 9:33:56 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 9:33:56 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 9:33:56 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 9:33:56 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 9:33:56 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 9:33:59 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 9:33:59 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 9:33:59 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 9:33:59 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 3914 ms
+三月 04, 2018 10:14:01 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;.
+三月 04, 2018 10:14:01 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:14:01 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:14:01 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 514 ms
+三月 04, 2018 10:14:01 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 10:14:01 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 10:14:01 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 10:14:02 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [285] milliseconds.
+三月 04, 2018 10:14:02 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 10:14:02 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 10:14:02 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 10:14:02 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 10:14:02 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 10:14:03 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 10:14:03 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:14:04 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:14:04 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 2179 ms
+三月 04, 2018 10:14:30 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;.
+三月 04, 2018 10:14:30 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:14:30 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:14:30 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 515 ms
+三月 04, 2018 10:14:30 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 10:14:30 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 10:14:30 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 10:14:31 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [257] milliseconds.
+三月 04, 2018 10:14:31 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 10:14:31 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 10:14:31 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 10:14:31 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 10:14:31 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 10:14:32 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 10:14:32 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:14:32 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:14:32 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 2054 ms
+三月 04, 2018 10:15:04 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;.
+三月 04, 2018 10:15:05 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:15:05 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:15:05 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 487 ms
+三月 04, 2018 10:15:05 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 10:15:05 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 10:15:05 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 10:15:05 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [186] milliseconds.
+三月 04, 2018 10:15:05 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 10:15:05 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 10:15:05 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 10:15:05 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 10:15:05 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 10:15:06 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 10:15:07 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:15:07 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:15:07 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 2064 ms
+三月 04, 2018 10:17:12 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;.
+三月 04, 2018 10:17:12 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:17:12 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:17:12 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 499 ms
+三月 04, 2018 10:17:12 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 10:17:12 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 10:17:12 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 10:17:13 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [181] milliseconds.
+三月 04, 2018 10:17:13 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 10:17:13 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 10:17:13 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 10:17:13 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 10:17:13 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 10:17:14 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 10:17:14 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:17:14 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:17:14 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 1795 ms
+三月 04, 2018 10:21:48 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;.
+三月 04, 2018 10:21:48 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:21:48 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:21:48 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 518 ms
+三月 04, 2018 10:21:48 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 10:21:48 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 10:21:48 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 10:21:48 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [182] milliseconds.
+三月 04, 2018 10:21:48 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 10:21:49 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 10:21:49 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 10:21:49 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 10:21:49 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 10:21:50 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 10:21:50 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:21:50 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:21:50 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 1770 ms
+三月 04, 2018 10:27:09 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;.
+三月 04, 2018 10:27:09 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:27:09 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:27:09 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 484 ms
+三月 04, 2018 10:27:09 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 10:27:09 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 10:27:09 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 10:27:10 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [181] milliseconds.
+三月 04, 2018 10:27:10 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 10:27:10 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 10:27:10 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 10:27:10 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 10:27:10 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 10:27:12 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 10:27:12 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:27:12 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:27:12 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 2660 ms
+三月 04, 2018 10:28:04 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;.
+三月 04, 2018 10:28:04 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:28:04 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:28:04 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 502 ms
+三月 04, 2018 10:28:04 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 10:28:04 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 10:28:04 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 10:28:05 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [174] milliseconds.
+三月 04, 2018 10:28:05 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 10:28:05 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 10:28:05 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 10:28:05 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 10:28:05 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 10:28:08 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 10:28:08 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:28:08 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:28:08 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 3502 ms
+三月 04, 2018 10:28:35 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;.
+三月 04, 2018 10:28:35 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:28:35 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:28:35 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 496 ms
+三月 04, 2018 10:28:35 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 10:28:35 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 10:28:35 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 10:28:36 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [183] milliseconds.
+三月 04, 2018 10:28:36 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 10:28:36 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 10:28:36 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 10:28:36 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 10:28:36 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 10:28:38 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 10:28:38 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:28:38 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:28:38 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 2812 ms
+三月 04, 2018 10:31:50 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;.
+三月 04, 2018 10:31:50 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:31:50 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:31:50 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 488 ms
+三月 04, 2018 10:31:50 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 10:31:50 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 10:31:50 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 10:31:51 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [176] milliseconds.
+三月 04, 2018 10:31:51 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 10:31:51 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 10:31:51 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 10:31:51 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 10:31:51 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 10:31:53 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 10:31:53 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:31:53 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:31:53 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 2611 ms
+三月 04, 2018 10:32:48 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;.
+三月 04, 2018 10:32:48 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:32:48 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:32:48 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 488 ms
+三月 04, 2018 10:32:48 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 10:32:48 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 10:32:48 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 10:32:48 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [179] milliseconds.
+三月 04, 2018 10:32:48 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 10:32:49 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 10:32:49 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 10:32:49 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 10:32:49 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 10:32:51 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 10:32:52 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:32:52 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:32:52 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 3607 ms
+三月 04, 2018 10:33:22 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;.
+三月 04, 2018 10:33:22 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:33:22 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:33:22 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 498 ms
+三月 04, 2018 10:33:22 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 10:33:22 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 10:33:22 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 10:33:23 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [189] milliseconds.
+三月 04, 2018 10:33:23 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 10:33:23 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 10:33:23 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 10:33:23 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 10:33:23 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 10:33:26 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 10:33:27 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:33:27 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:33:27 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 4255 ms
+三月 04, 2018 10:35:45 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;.
+三月 04, 2018 10:35:45 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:35:45 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:35:45 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 511 ms
+三月 04, 2018 10:35:45 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 10:35:45 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 10:35:45 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 10:35:46 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [186] milliseconds.
+三月 04, 2018 10:35:46 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 10:35:46 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 10:35:46 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 10:35:46 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 10:35:46 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 10:35:47 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 10:35:47 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:35:47 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:35:47 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 1817 ms
+三月 04, 2018 10:36:00 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;.
+三月 04, 2018 10:36:00 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:36:00 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:36:00 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 499 ms
+三月 04, 2018 10:36:00 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 10:36:00 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 10:36:00 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 10:36:01 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [196] milliseconds.
+三月 04, 2018 10:36:01 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 10:36:01 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 10:36:01 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 10:36:01 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 10:36:01 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 10:36:02 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 10:36:02 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:36:02 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:36:02 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 1836 ms
+三月 04, 2018 10:39:16 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;.
+三月 04, 2018 10:39:17 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:39:17 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:39:17 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 503 ms
+三月 04, 2018 10:39:17 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 10:39:17 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 10:39:17 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 10:39:17 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [237] milliseconds.
+三月 04, 2018 10:39:17 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 10:39:17 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 10:39:17 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 10:39:18 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 10:39:18 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 10:39:18 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 10:39:19 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:39:19 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:39:19 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 1827 ms
+三月 04, 2018 10:39:47 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;.
+三月 04, 2018 10:39:47 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:39:47 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:39:47 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 606 ms
+三月 04, 2018 10:39:47 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 10:39:47 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 10:39:47 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 10:39:48 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [220] milliseconds.
+三月 04, 2018 10:39:48 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 10:39:48 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 10:39:48 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 10:39:48 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 10:39:48 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 10:39:51 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 10:39:52 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:39:52 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:39:52 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 4373 ms
+三月 04, 2018 10:45:37 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;.
+三月 04, 2018 10:45:38 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:45:38 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:45:38 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 559 ms
+三月 04, 2018 10:45:38 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 10:45:38 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 10:45:38 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 10:45:38 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [185] milliseconds.
+三月 04, 2018 10:45:38 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 10:45:38 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 10:45:38 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 10:45:38 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 10:45:39 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 10:45:41 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 10:45:41 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:45:41 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:45:41 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 3537 ms
+三月 04, 2018 10:46:57 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;.
+三月 04, 2018 10:46:58 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:46:58 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:46:58 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 474 ms
+三月 04, 2018 10:46:58 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 10:46:58 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 10:46:58 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 10:46:58 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [186] milliseconds.
+三月 04, 2018 10:46:58 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 10:46:58 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 10:46:58 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 10:46:58 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 10:46:58 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 10:47:00 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 10:47:00 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:47:00 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:47:00 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 2591 ms
+三月 04, 2018 10:48:06 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;.
+三月 04, 2018 10:48:06 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:48:06 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:48:06 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 533 ms
+三月 04, 2018 10:48:06 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 10:48:06 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 10:48:06 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 10:48:07 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [192] milliseconds.
+三月 04, 2018 10:48:07 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 10:48:07 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 10:48:07 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 10:48:07 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 10:48:07 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 10:48:10 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 10:48:41 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;.
+三月 04, 2018 10:48:41 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:48:41 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:48:41 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 535 ms
+三月 04, 2018 10:48:41 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 10:48:41 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 10:48:41 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 10:48:41 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [187] milliseconds.
+三月 04, 2018 10:48:41 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 10:48:41 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 10:48:41 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 10:48:42 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 10:48:42 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 10:48:44 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 10:48:44 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:48:44 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:48:44 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 3486 ms
+三月 04, 2018 10:56:21 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;.
+三月 04, 2018 10:56:21 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:56:21 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:56:21 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 507 ms
+三月 04, 2018 10:56:21 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 10:56:21 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 10:56:21 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 10:56:22 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [189] milliseconds.
+三月 04, 2018 10:56:22 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 10:56:22 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 10:56:22 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 10:56:22 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 10:56:22 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 10:56:24 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 10:56:24 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:56:24 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:56:24 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 2741 ms
+三月 04, 2018 10:57:05 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;.
+三月 04, 2018 10:57:05 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:57:05 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:57:05 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 500 ms
+三月 04, 2018 10:57:05 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 10:57:05 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 10:57:05 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 10:57:06 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [185] milliseconds.
+三月 04, 2018 10:57:06 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 10:57:06 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 10:57:06 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 10:57:06 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 10:57:06 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 10:57:08 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 10:57:08 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:57:08 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:57:08 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 2638 ms
+三月 04, 2018 10:57:37 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;.
+三月 04, 2018 10:57:37 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:57:37 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:57:37 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 493 ms
+三月 04, 2018 10:57:37 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 10:57:37 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 10:57:37 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 10:57:38 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [194] milliseconds.
+三月 04, 2018 10:57:38 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 10:57:38 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 10:57:38 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 10:57:38 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 10:57:38 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 10:57:40 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 10:57:41 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:57:41 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:57:41 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 3449 ms
+三月 04, 2018 10:59:42 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;.
+三月 04, 2018 10:59:42 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:59:42 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:59:42 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 605 ms
+三月 04, 2018 10:59:42 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 10:59:42 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 10:59:42 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 10:59:43 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [222] milliseconds.
+三月 04, 2018 10:59:43 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 10:59:43 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 10:59:43 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 10:59:43 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 10:59:43 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 10:59:46 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 10:59:46 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 10:59:46 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 10:59:46 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 3807 ms
+三月 04, 2018 11:00:50 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;.
+三月 04, 2018 11:00:51 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 11:00:51 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 11:00:51 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 667 ms
+三月 04, 2018 11:00:51 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 11:00:51 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 11:00:51 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 11:00:51 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [191] milliseconds.
+三月 04, 2018 11:00:51 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 11:00:51 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 11:00:52 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 11:00:52 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 11:00:52 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 11:00:55 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 11:00:55 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 11:00:55 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 11:00:55 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 4326 ms
+三月 04, 2018 11:04:41 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;.
+三月 04, 2018 11:04:41 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 11:04:42 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 11:04:42 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 577 ms
+三月 04, 2018 11:04:42 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 11:04:42 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 11:04:42 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 11:04:42 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [219] milliseconds.
+三月 04, 2018 11:04:42 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 11:04:42 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 11:04:42 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 11:04:42 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 11:04:43 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 11:04:45 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 11:04:45 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 11:04:45 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 11:04:45 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 3808 ms
+三月 04, 2018 11:16:11 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;;.
+三月 04, 2018 11:16:12 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 11:16:12 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 11:16:12 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 472 ms
+三月 04, 2018 11:16:12 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 11:16:12 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 11:16:12 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 11:16:12 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [196] milliseconds.
+三月 04, 2018 11:16:12 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 11:16:12 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 11:16:12 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 11:16:12 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 11:16:12 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 11:16:33 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 11:16:33 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 11:16:33 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 11:16:33 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 21583 ms
+三月 04, 2018 11:21:28 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;;.
+三月 04, 2018 11:21:28 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 11:21:29 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 11:21:29 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 515 ms
+三月 04, 2018 11:21:29 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 11:21:29 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 11:21:29 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 11:21:29 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [174] milliseconds.
+三月 04, 2018 11:21:29 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 11:21:29 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 11:21:29 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 11:21:29 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 11:21:29 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 11:21:49 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 11:22:00 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;;.
+三月 04, 2018 11:22:01 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 11:22:01 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 11:22:01 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 419 ms
+三月 04, 2018 11:22:01 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 11:22:01 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 11:22:01 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 11:22:01 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [165] milliseconds.
+三月 04, 2018 11:22:01 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 11:22:01 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 11:22:01 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 11:22:01 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 11:22:01 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 11:22:22 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;;.
+三月 04, 2018 11:22:22 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 11:22:22 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 11:22:22 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 415 ms
+三月 04, 2018 11:22:22 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 11:22:22 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 11:22:22 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 11:22:22 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [165] milliseconds.
+三月 04, 2018 11:22:22 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 11:22:22 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 11:22:22 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 11:22:23 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 11:22:23 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 11:22:43 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 11:22:43 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 11:22:43 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 11:22:43 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 20955 ms
+三月 04, 2018 11:26:10 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;;.
+三月 04, 2018 11:26:10 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 11:26:10 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 11:26:10 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 422 ms
+三月 04, 2018 11:26:10 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 11:26:10 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 11:26:10 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 11:26:11 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [184] milliseconds.
+三月 04, 2018 11:26:11 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 11:26:11 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 11:26:11 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 11:26:11 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 11:26:11 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 11:26:21 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 11:26:21 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 11:26:21 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 11:26:21 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 11240 ms
+三月 04, 2018 11:27:55 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;;.
+三月 04, 2018 11:27:55 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 11:27:56 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 11:27:56 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 436 ms
+三月 04, 2018 11:27:56 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 11:27:56 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 11:27:56 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 11:27:56 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [164] milliseconds.
+三月 04, 2018 11:27:56 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 11:27:56 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 11:27:56 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 11:27:56 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 11:27:56 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 11:27:58 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 11:27:59 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 11:27:59 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 11:27:59 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 3126 ms
+三月 04, 2018 11:31:31 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;;.
+三月 04, 2018 11:31:31 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 11:31:31 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 11:31:31 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 445 ms
+三月 04, 2018 11:31:31 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 11:31:31 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 11:31:31 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 11:31:32 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [192] milliseconds.
+三月 04, 2018 11:31:32 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 11:31:32 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 11:31:32 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 11:31:32 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 11:31:32 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 11:31:35 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 11:31:35 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 11:31:35 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 11:31:35 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 4047 ms
+三月 04, 2018 11:32:37 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;;.
+三月 04, 2018 11:32:38 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 11:32:38 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 11:32:38 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 423 ms
+三月 04, 2018 11:32:38 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 11:32:38 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 11:32:38 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 11:32:38 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [173] milliseconds.
+三月 04, 2018 11:32:38 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 11:32:38 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 11:32:38 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 11:32:38 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 11:32:38 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 11:32:40 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 11:32:40 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 11:32:40 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 11:32:40 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 2925 ms
+三月 04, 2018 11:37:12 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;;.
+三月 04, 2018 11:37:12 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 11:37:12 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 11:37:12 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 426 ms
+三月 04, 2018 11:37:12 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 11:37:12 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 11:37:12 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 11:37:12 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [177] milliseconds.
+三月 04, 2018 11:37:12 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 11:37:13 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 11:37:13 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 11:37:13 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 11:37:13 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 11:37:15 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 11:37:15 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 11:37:15 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 11:37:15 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 3005 ms
+三月 04, 2018 11:40:04 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;;.
+三月 04, 2018 11:40:05 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 11:40:05 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 11:40:05 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 420 ms
+三月 04, 2018 11:40:05 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 11:40:05 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 11:40:05 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 11:40:05 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [174] milliseconds.
+三月 04, 2018 11:40:05 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 11:40:05 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 11:40:05 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 11:40:05 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 11:40:05 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 11:40:07 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 11:40:08 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 11:40:08 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 11:40:08 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 2920 ms
+三月 04, 2018 11:41:08 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;;.
+三月 04, 2018 11:41:08 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 11:41:08 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 11:41:08 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 462 ms
+三月 04, 2018 11:41:08 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 11:41:08 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 11:41:08 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 11:41:09 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [188] milliseconds.
+三月 04, 2018 11:41:09 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 11:41:09 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 11:41:09 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 11:41:09 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 11:41:09 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 11:41:10 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 11:41:10 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 11:41:10 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 11:41:10 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 1756 ms
+三月 04, 2018 11:42:12 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;;.
+三月 04, 2018 11:42:12 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 11:42:12 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 11:42:12 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 431 ms
+三月 04, 2018 11:42:12 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 11:42:12 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 11:42:12 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 11:42:12 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [279] milliseconds.
+三月 04, 2018 11:42:12 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 11:42:13 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 11:42:13 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 11:42:13 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 11:42:13 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 11:42:15 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 11:42:15 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 11:42:15 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 11:42:15 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 3278 ms
+三月 04, 2018 11:44:58 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;;.
+三月 04, 2018 11:44:58 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 11:44:58 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 11:44:58 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 424 ms
+三月 04, 2018 11:44:58 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 11:44:58 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 11:44:58 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 11:44:58 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [164] milliseconds.
+三月 04, 2018 11:44:58 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 11:44:58 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 11:44:59 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 11:44:59 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 11:44:59 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 11:45:01 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 11:45:01 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 11:45:01 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 11:45:01 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 3036 ms
+三月 04, 2018 11:46:51 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Mysql\bin;F:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;E:\BaiduNetdiskDownload\oracle\oracle.（53-55天）\oracle课件\安装介质\Oracle客户端\oracleInstanceClient\64bit\instantclient_12_1;C:\Users\17310\AppData\Local\Microsoft\WindowsApps;;.
+三月 04, 2018 11:46:51 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 11:46:51 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 11:46:51 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 483 ms
+三月 04, 2018 11:46:51 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2018 11:46:51 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2018 11:46:51 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2018 11:46:51 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [175] milliseconds.
+三月 04, 2018 11:46:51 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2018 11:46:51 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2018 11:46:51 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2018 11:46:51 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2018 11:46:51 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\solr
+三月 04, 2018 11:46:54 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\solr\apache-tomcat-7.0.42\webapps\test
+三月 04, 2018 11:46:54 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2018 11:46:54 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2018 11:46:54 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 3041 ms
